@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.20.0",
+    "json2xls": "^0.1.2",
+    "xlsx2json": "^1.0.0"
+  }
+}
